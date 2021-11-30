@@ -1,0 +1,8 @@
+flipkart\business\LoginService.class
+flipkart\controller\LoginAction.class
+flipkart\controller\HelloAction.class
+flipkart\dao\UsuarioQueryHelper.class
+flipkart\model\Usuario.class
+flipkart\controller\BaseAction.class
+flipkart\interceptor\ValidaLogin.class
+flipkart\exceptions\UsuarioNAutorizado.class
